@@ -259,9 +259,9 @@ If you use this work, please cite:
 ```
 @misc{ntm2025,
   title  = {Neural Tension Model: Thermodynamic Continual Learning via Sparse Graph Dynamics},
-  author = {[Author]},
+  author = {[Thone]},
   year   = {2025},
-  url    = {https://github.com/[username]/MTN}
+  url    = {https://github.com/[Thone]/MTN}
 }
 ```
 
