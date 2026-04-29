@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+experiments_history/
+benchmarks/
+*.png
+*.pdf
+*.egg-info/
+.venv/
+venv/
